@@ -7,8 +7,8 @@ O objetivo principal é exercitar a sintaxe da linguagem, estruturar algoritmos 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-* **Linguagem:** Python 3.x
-* **Assistentes de IA:** GitHub Copilot / Gemini 
+* **Linguagem:** Python
+* **Assistentes de IA:** Claude Haiku 4.5
 * **Ambiente de Desenvolvimento:** VS Code / Terminal
 
 ## 🧩 Desafios Inclusos
